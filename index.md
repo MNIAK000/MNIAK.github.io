@@ -15,7 +15,7 @@ What I <span style="color: #990000;">hate</span>? That bit is irrelevant for now
 
 # Find me:
 
-**Email:** <span style="color: #07808e;">mniak@duck.com</span>  
-**Discord:** <span style="color: #07808e;">mniak_5028</span>  
-**Steam:** <span style="color: #07808e;">mniak_the_real</span>  
-**Github:** <span style="color: #07808e;">MNIAK000</span>
+<span style="color: #3e2c83; font-weight: bold;">**Email**</span>: <span style="color: #07808e;">mniak@duck.com</span>  
+<span style="color: #3e2c83; font-weight: bold;">**Discord**</span>: <span style="color: #07808e;">mniak_5028</span>  
+<span style="color: #3e2c83; font-weight: bold;">**Steam**</span>: <span style="color: #07808e;">mniak_the_real</span>  
+<span style="color: #3e2c83; font-weight: bold;">**GitHub**</span>: <span style="color: #07808e;">MNIAK000</span>
