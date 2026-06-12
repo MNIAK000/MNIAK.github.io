@@ -1,0 +1,28 @@
+---
+layout: default
+title: "HOME"
+---
+
+# -\\\HOME//-
+
+<em><strong><span style="color: #b10000;">Hi</span></strong>! Welcome to my <small><span style="color: #47c8c0;">little</span></small> website! Feel free to <span style="color: #763762;">snoop</span> around!</em>
+
+# About Me:
+
+I do not wish to disclose my name, but you can call me **<span style="color: #b10000;">MNIAK</span>**.  
+They/Them. (<span style="color: #3DA542;">aro</span>?)<span style="color: #763762;">ace</span>. Probably <span style="color: #FCF434;">E</span><span style="color: #FFFFFF;">n</span><span style="color: #9C59D1;">b</span><span style="color: #888888;">y</span>, not sure though.  
+My age ∈ [13; 19]. I like games, music and experimenting with linux distros (I'm currently using **<span style="color: #478061; font-weight: bold;">Void</span>**).  
+I'm currently learning **<span style="color: #0057a1;">C++</span>**, and I also enjoy writing and taking pictures.  
+What I <span style="color: #990000;">hate</span>? That bit is irrelevant for now.
+
+# Find me:
+
+**Email:** <span style="color: #07808e;">mniak@duck.com</span>  
+**Discord:** <span style="color: #07808e;">mniak_5028</span>  
+**Steam:** <span style="color: #07808e;">mniak_the_real</span>  
+**Github:** <span style="color: #07808e;">MNIAK000</span>
+
+Site hosted by <span style="color: #f49b31;">Neocities</span>, but you already knew that.
+
+<img src="https://cyber.dabamos.de/88x31/javascript-zero.gif" height="31" />
+<img src="https://cyber.dabamos.de/88x31/nocookie.gif" height="31" />
