@@ -3,8 +3,6 @@ layout: default
 title: "HOME"
 ---
 
-# -\\\HOME//-
-
 <em><strong><span style="color: #b10000;">Hi</span></strong>! Welcome to my <small><span style="color: #47c8c0;">little</span></small> website! Feel free to <span style="color: #763762;">snoop</span> around!</em>
 
 # About Me:
@@ -21,8 +19,3 @@ What I <span style="color: #990000;">hate</span>? That bit is irrelevant for now
 **Discord:** <span style="color: #07808e;">mniak_5028</span>  
 **Steam:** <span style="color: #07808e;">mniak_the_real</span>  
 **Github:** <span style="color: #07808e;">MNIAK000</span>
-
-Site hosted by <span style="color: #f49b31;">Neocities</span>, but you already knew that.
-
-<img src="https://cyber.dabamos.de/88x31/javascript-zero.gif" height="31" />
-<img src="https://cyber.dabamos.de/88x31/nocookie.gif" height="31" />
