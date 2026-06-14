@@ -7,7 +7,7 @@ title: WALL OF PRIDE
 
 <small>I took them on my shitty phone and edited them <span style="color: #ccfbff;">Lightroom</span>. Don't judge them too much.</small>
 
-You can find more in my [Instagram Photography account](https://www.instagram.com/ilhcrara/)  
+You can find more in my [Instagram Photography account](https://www.instagram.com/ilihcrara/)  
 
 ## KARTLIS DEDA
 <img src="/photos/KartlisDeda.jpg" width="500">
