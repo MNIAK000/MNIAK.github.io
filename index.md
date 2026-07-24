@@ -8,10 +8,11 @@ title: "HOME"
 # About Me:
 
 I do not wish to disclose my name, but you can call me **<span style="color: #b10000;">MNIAK</span>**.  
-They/Them. (<span style="color: #3DA542;">aro</span>?)<span style="color: #763762;">ace</span>. Probably <span style="color: #FCF434;">E</span><span style="color: #FFFFFF;">n</span><span style="color: #9C59D1;">b</span><span style="color: #888888;">y</span>, not sure though.  
-My age ∈ [13; 19]. I like games, music and experimenting with linux distros (I'm currently using **<span style="color: #478061; font-weight: bold;">Void</span>**).  
-I'm currently learning **<span style="color: #0057a1;">C++</span>**, and I also enjoy writing and taking pictures.  
-What I <span style="color: #990000;">hate</span>? That bit is irrelevant for now.
+They/Them. (<span style="color: #3DA542;">aro</span>?)<span style="color: #763762;">ace</span>. <span style="color: #FCF434;">E</span><span style="color: #FFFFFF;">n</span><span style="color: #9C59D1;">b</span><span style="color: #888888;">y</span>, probably.  
+My age ∈ [13; 19]. I like messing around, music and experimenting with linux distros (I'm currently using **<span style="color: #478061; font-weight: bold;">Void</span>**).\
+I also highly enjoy writing and taking pictures.\
+I know **<span style="color:rgb(4, 129, 238);">C/C++</span>**, but im learning **<span style="color: #0057a1;">Assembly</span>** now. \
+What I <span style="color: #990000;">hate</span>? That's irrelevant for now.
 
 # Find me:
 
