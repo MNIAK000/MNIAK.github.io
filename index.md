@@ -10,8 +10,7 @@ title: "HOME"
 I do not wish to disclose my name, but you can call me **<span style="color: #b10000;">MNIAK</span>**.  
 They/Them. (<span style="color: #3DA542;">aro</span>?)<span style="color: #763762;">ace</span>. <span style="color: #FCF434;">E</span><span style="color: #FFFFFF;">n</span><span style="color: #9C59D1;">b</span><span style="color: #888888;">y</span>, probably.  
 My age ∈ [13; 19]. I like messing around, music and experimenting with linux distros (I'm currently using **<span style="color: #478061; font-weight: bold;">Void</span>**).\
-I also highly enjoy writing and taking pictures.\
-I know **<span style="color:rgb(4, 129, 238);">C/C++</span>**, but im learning **<span style="color: #0057a1;">Assembly</span>** now. \
+I also highly enjoy writing and taking pictures. I know **<span style="color:rgb(4, 129, 238);">C/C++</span>**, but im learning **<span style="color: #0057a1;">Assembly</span>** now. \
 What I <span style="color: #990000;">hate</span>? That's irrelevant for now.
 
 # Find me:
