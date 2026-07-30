@@ -4,7 +4,7 @@ body {
   background-color: Black;
   color: White;
   font-family: 'JetBrains Mono', monospace;
-  font-weight: 500; /* Medium */
+  font-weight: 500;
 }
 
 .tooltip { position: relative; display: inline-block; }
