@@ -13,4 +13,4 @@ If you're curious about my music taste, [here is the playlist where I dump all t
 If you want an explanation on why [Castlevania: Harmony of Despair OST](https://open.spotify.com/album/0AHWufwytsUsdnILmGSZdb) is the most played one,\
 it's because I play it in the background while studying. Highly <em><span style="color: #47c8c0;">recommend</span></em> listening to it while studying.
 
-Anyways, there are many underrated <span style="color:rgb(0, 162, 255);">gems</span> here. Want music reccomendations? You know where to contact me. 
+Anyways, there are many underrated <span style="color:rgb(0, 162, 255);">gems</span> here. Want music recommendations? You know where to contact me. 

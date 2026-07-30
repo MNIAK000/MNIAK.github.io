@@ -6,3 +6,27 @@ body {
   font-family: 'JetBrains Mono', monospace;
   font-weight: 500; /* Medium */
 }
+
+.tooltip { position: relative; display: inline-block; }
+.tooltiptext {
+    visibility: hidden;
+    opacity: 1;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 100%;
+    margin-top: 6px;
+    background: #111111;
+    color: #ffffff;
+    padding: 6px 8px;
+    white-space: nowrap;
+    transition: opacity .15s ease;
+    z-index: 10;
+    border-radius: 0;
+}
+
+.tooltip:hover .tooltiptext,
+.tooltip:focus-within .tooltiptext{
+    visibility: visible;
+    opacity: 1;
+}
